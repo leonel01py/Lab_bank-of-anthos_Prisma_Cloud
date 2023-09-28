@@ -1,4 +1,4 @@
-name: 2
+name: 2-PC_Scan_Job
 on:
   pull_request:
     branches:
