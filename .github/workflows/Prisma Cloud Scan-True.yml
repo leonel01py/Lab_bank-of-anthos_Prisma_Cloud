@@ -1,4 +1,4 @@
-name: Prisma Cloud Scan-True
+name: Prisma Cloud Scan True
 on:
   push:
     branches: [ "development" ]
