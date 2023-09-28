@@ -1,9 +1,8 @@
 name: PC_Scan_Job_1
 on:
-  pull_request:
-    branches:
-      - development
-
+on:
+  push:
+    branches: [ "development" ]
 jobs:
   kubernetes-scan:
     runs-on: ubuntu-latest
