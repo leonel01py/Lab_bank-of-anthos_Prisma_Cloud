@@ -1,5 +1,4 @@
-name: PC_Scan_Job_1
-on:
+name: Prisma Cloud Scan-True
 on:
   push:
     branches: [ "development" ]
