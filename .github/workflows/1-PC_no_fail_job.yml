@@ -1,4 +1,4 @@
-name: 1-PC_no_fail_job
+name: 1-PC_no_fail_job_
 on:
   push:
     branches:
