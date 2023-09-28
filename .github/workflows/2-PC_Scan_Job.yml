@@ -1,8 +1,7 @@
-name: 2-PC_Scan_Job
+name: Prisma Cloud Scan-False
 on:
-  pull_request:
-    branches:
-      - development
+  push:
+    branches: [ "development" ]
 
 jobs:
   kubernetes-scan:
