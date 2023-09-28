@@ -1,4 +1,4 @@
-name: Prisma Cloud IaC Scan
+name: 1-PC_no_fail_job
 on:
   push:
     branches:
